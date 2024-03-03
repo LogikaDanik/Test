@@ -1,1 +1,1 @@
-print("Minecraft")
+print("Python is my life")
